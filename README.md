@@ -4,7 +4,7 @@ Welcome to my very first website!
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-You can check out the website here!
+You can check out the website [here!](https://rob-mundy.github.io/my-full-template/portfolio-three.html)
 
 ## Project Description
 
